@@ -15,6 +15,4 @@ module.exports = async (req, res) => {
   } catch (error) {
     res.send(error);
   }
-
-  // console.log(dataa);
 };
